@@ -4,7 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<<<<<<< HEAD
 <title>쿠키관리 222222번째 test[jquery API활용하기]</title>
+=======
+<title>쿠키관리 2번째 test[jquery API활용하기]</title>
+>>>>>>> fdfdfbdba40734dc31cc7f211c9af66b767fe052
 <style type="text/css">
 	#d_cookie{
 		border: 1px solid black;
@@ -49,4 +53,8 @@
 <button id="btn_move">페이지이동</button>
 <button id="btn_confirm">쿠키값 확인</button>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> fdfdfbdba40734dc31cc7f211c9af66b767fe052
